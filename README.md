@@ -6,5 +6,3 @@ I'm a fullstack software engineer who is passionate about writing code, solving 
 
 - 📚 I'm expertise on React.JS, Javascript, C#, ASP/.NET, API's, JWT.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/justinpaulosolo) [Gmail](mailto:justinpaulosolo@gmail.com)
-
-⭐️ From [hazemessam](https://github.com/justinpaulosolo)
