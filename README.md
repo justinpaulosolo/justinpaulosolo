@@ -7,3 +7,5 @@ I'm a fullstack software engineer who is passionate about writing code, solving 
 
 ![JustinPauloSolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=justinpaulosolo&hide=stars,issues,contribs&show_icons=true
 )
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justinpaulosolo)](https://github.com/anuraghazra/github-readme-stats)
