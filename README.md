@@ -1,7 +1,13 @@
-### Hi there 👋
+# Hello, World! 👋
 
-I'm a fullstack software engineer who is passionate about writing code, solving problems, automating stuff, and building software.
+I'm a Full Stack Software Engineer with a passion for writing code, solving problems, automating tasks, and building software.
 
-- 📚 Technological expertise in React.JS, NextJS, Typescript, Go, C#, ASP/.NET, C++, Blazor, API's, JWT.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/justinpaulosolo) [Gmail](mailto:justinpaulosolo@gmail.com)
-<br>
+## 📚 Technical Expertise
+
+- Frontend: React.JS, NextJS, Typescript
+- Backend: C#, ASP/.NET, NestJS, Node, C++, Go
+- Others: Blazor
+
+## 📫 Contact Me
+
+Feel free to reach out to me on [Linkedin](https://www.linkedin.com/in/justinpaulosolo) or via [Gmail](mailto:justinpaulosolo@gmail.com).
