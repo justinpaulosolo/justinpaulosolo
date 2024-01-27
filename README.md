@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-I'm a Full Stack Software Engineer with a passion for writing code, solving problems, automating tasks, and building software.
+I'm a Software Engineer with a passion for writing great tools, solving problems and learning program languages.
 
 ## 📚 Technical Expertise
 
