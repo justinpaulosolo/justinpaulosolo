@@ -9,6 +9,6 @@ I'm a Software Engineer with a passion for writing great tools, solving problems
 
 ## 📫 Contact Me
 
-[JustinSolo.dev](https://justinsolo.dev/)
+[j-s.sh](https://j-s.sh/)
 
 Feel free to reach out to me on [Linkedin](https://www.linkedin.com/in/justinpaulosolo) or via [Gmail](mailto:justinpaulosolo@gmail.com).
